@@ -55,7 +55,7 @@
 						</goals>
 						<configuration>
 							<testFilesIncluded>
-								<jMeterTestFile>Test.jmx</jMeterTestFile>
+								<jMeterTestFile>java/jmeter/Test.jmx</jMeterTestFile>
 							</testFilesIncluded>
 							<testResultsTimestamp>false</testResultsTimestamp>
 							<propertiesUser>
