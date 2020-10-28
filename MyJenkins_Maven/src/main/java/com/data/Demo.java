@@ -6,4 +6,9 @@ public class Demo {
 	{
 		return x*y;
 	}
+	
+	public int add1(int x,int y)
+	{
+		return x+y;
+	}
 }
