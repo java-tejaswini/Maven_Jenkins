@@ -9,6 +9,6 @@ public class Demo {
 	
 	public int add1(int x,int y)
 	{
-		return x+y;
+		return x-y;
 	}
 }
